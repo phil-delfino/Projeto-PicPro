@@ -2,19 +2,6 @@
 
 Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie Academy Brasil em parceria com o PicPay.
 
-## Ferramentas
-
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
-
-## Checkpoints aulas
-
-1. [Aula 1: Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-dffdc96f6a3f4db887713163d69fb756)
-
-2. [Aula 2: Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-b605faa196074f558ba5ef9a91d38919)
-3. [Aula 3: Introdução ao JS](https://kenzieacademybr.notion.site/Checkpoint-db6f7863c5194db48feffa58c6d22f42)
-
-
 ## O projeto
 
 ### Estrutura de arquivos
