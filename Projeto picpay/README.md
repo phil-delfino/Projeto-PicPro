@@ -13,6 +13,7 @@ Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie
 
 2. [Aula 2: Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-b605faa196074f558ba5ef9a91d38919)
 3. [Aula 3: Introdução ao JS](https://kenzieacademybr.notion.site/Checkpoint-db6f7863c5194db48feffa58c6d22f42)
+4. [Aula 4: Resumão + Finalização do Projeto]
 
 
 ## O projeto
